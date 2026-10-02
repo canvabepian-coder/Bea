@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FotoCarpetas</string>
+    <string name="project_folder_label">Nombre del Proyecto o Carpeta</string>
+    <string name="project_placeholder">ej. Cliente López, Mantenimiento 1, Recibos de Obra</string>
+    <string name="start_photo_session">📁 Iniciar Sesión de Fotos</string>
+    <string name="take_photo">📷 Tomar Foto</string>
+    <string name="photos_taken_in_folder">Fotos tomadas en esta carpeta</string>
+    <string name="finish_and_change_project">Finalizar y Cambiar de Proyecto</string>
+</resources>

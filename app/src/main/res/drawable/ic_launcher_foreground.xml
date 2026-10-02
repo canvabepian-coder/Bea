@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Folder shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M27,33 C25.3,33 24,34.3 24,36 L24,72 C24,73.7 25.3,75 27,75 L81,75 C82.7,75 84,73.7 84,72 L84,43 C84,41.3 82.7,40 81,40 L52,40 L46,34 C44.8,33.4 43.5,33 42,33 Z" />
+    <!-- Folder inner pocket cutout / contrast -->
+    <path
+        android:fillColor="#E8F5E9"
+        android:pathData="M28,42 L80,42 C81.1,42 82,42.9 82,44 L82,71 C82,72.1 81.1,73 80,73 L28,73 C26.9,73 26,72.1 26,71 L26,44 C26,42.9 26.9,42 28,42 Z" />
+    <!-- Camera Body inside folder -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M42,48 L46,48 L48,46 L60,46 L62,48 L66,48 C67.7,48 69,49.3 69,51 L69,67 C69,68.7 67.7,70 66,70 L42,70 C40.3,70 39,68.7 39,67 L39,51 C39,49.3 40.3,48 42,48 Z" />
+    <!-- Camera Lens outer ring -->
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M54,51 C58.4,51 62,54.6 62,59 C62,63.4 58.4,67 54,67 C49.6,67 46,63.4 46,59 C46,54.6 49.6,51 54,51 Z" />
+    <!-- Camera Lens center glass -->
+    <path
+        android:fillColor="#004D40"
+        android:pathData="M54,54 C56.8,54 59,56.2 59,59 C59,61.8 56.8,64 54,64 C51.2,64 49,61.8 49,59 C49,56.2 51.2,54 54,54 Z" />
+    <!-- Lens reflection -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,56 C53.1,56 54,56.9 54,58 C54,58.3 53.9,58.5 53.7,58.7 C53.5,58.9 53.3,59 53,59 C51.9,59 51,58.1 51,57 C51,56.4 51.4,56 52,56 Z" />
+</vector>

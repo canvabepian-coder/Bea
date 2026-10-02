@@ -1,0 +1,6 @@
+{
+  "name": "FotoCarpetas",
+  "description": "Organizador nativo y sencillo de fotos de trabajo clasificadas por carpetas y proyectos con fecha y hora exacta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
